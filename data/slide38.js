@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{B47CD328-F39F-4F73-B844-A3D6DA2D6071}'];loadHandler&&loadHandler(37, '<div id="spr0_11344"><div id="spr1_11344" class="kern slide"><img id="img1_11344" src="data/img13.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_11344" class="kern slide"><div id="spr3_11344"><img id="img0_11344" src="data/img69.png" width="960" height="540" alt="Изображение выглядит как мебель, одежда, стул, женщина\
+\
+Контент, сгенерированный ИИ, может содержать ошибки."/></div></div></div>', '{"s":[]}');})();
